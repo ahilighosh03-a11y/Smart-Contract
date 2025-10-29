@@ -41,7 +41,7 @@ All actions are permanently stored on the blockchain, ensuring open access to re
 
 - **Network:** Ethereum / Testnet (e.g., Sepolia, Base Sepolia, etc.)  
 - **Contract Address:** `XXX`  
-- **Block Explorer Link:** [View on Etherscan](XXX)
+- **Block Explorer Link:** https://celo-sepolia.blockscout.com/address/0xeA75106C5d1d1306877FC560D3035ea41F8dd0bA
 
 ---
 
